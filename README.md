@@ -45,6 +45,7 @@ Feel free to clone this repo and create a project using Spara as a starting poin
 #### 404 Page
 ![404 Page](./assets/not-found.png)
 
+Dark mode screenshots are available in the assets directory in the repo's root.
 
 ####
 
